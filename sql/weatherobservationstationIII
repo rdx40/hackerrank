@@ -1,0 +1,20 @@
+s/*
+Enter your query here.
+*/
+/*
+Enter your query here.
+*/
+select distinct city from station where (ID%2=0);
+
+
+or 
+
+
+
+/*
+Enter your query here.
+*/
+/*
+Enter your query here.
+*/
+select distinct city from station where MOD(ID,2)=0;
